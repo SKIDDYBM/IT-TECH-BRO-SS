@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<a href="https://github.com/SKIDDYBM "><img title="Author" src="https://i.ibb.co/BKfyK88F/shaban-md.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SKIDDYBM "><img title="Author" src="https://files.catbox.moe/vyh1zt.jpg?style=for-the-badge&logo=github"></a>
 
 
 
@@ -51,7 +51,7 @@ https://whatsapp.com/channel/0029Vb5e33h96H4QYhiGIQ2V</div>
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href=https://github.com/SKIDDYBM/IT-TECH-BRO-SS/fork"><img title="IT TECH BRO'S " src="https://img.shields.io/badge/FORK-CASEY%20RHODES%20XMD-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href=https://github.com/SKIDDYBM/IT-TECH-BRO-SS/fork"><img title="IT TECH BRO'S " src="https://img.shields.io/badge/FORK-IT TECH%20RHODES%20XMD-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 
 
@@ -78,7 +78,7 @@ You will need a session ID to run IT TECH BRO'S . Click the button below to obta
 
 <h4 align="left">2. 𝐊𝐎𝐘𝐄𝐁</h4>
 <p align="left">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=caseyweb/CASEYRHODES-XMD&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/SKIDDYBM/IT-TECH-BRO-SS&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
